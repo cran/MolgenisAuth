@@ -1,0 +1,12 @@
+e61dffb1b3eee0d427f873f4da9f43cf *DESCRIPTION
+8bc8ac59af2f5cab3655e7087f63ae4e *NAMESPACE
+57d37b36810b89466cf094f41d9002ef *NEWS.md
+e0ef681901465d24f47f9139cb2c086a *R/MolgenisAuth-package.R
+235a1b48489f2b4c2ad9bc907c1074db *R/auth.R
+1c327dd3b14ad4929aca99d02ef8f092 *README.md
+8b0d47965e6ca7d5ce548d0383e5deda *man/MolgenisAuth-package.Rd
+37c223590285d4723a0abea151cb4a1b *man/device_flow_auth.Rd
+1623d7b14e4f4783c5c882ce4d183e3e *man/discover.Rd
+fc2fd40a93258b65a49d4246beb19872 *tests/testthat.R
+118c2f4b7022823dd0d7870ff8ad943c *tests/testthat/helper.R
+50f548fbba3c28d4b2baf7053deac604 *tests/testthat/test-auth.R
