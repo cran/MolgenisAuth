@@ -2,9 +2,10 @@ Package: MolgenisAuth
 Title: 'OpenID Connect' Discovery and Authentication
 Description: Discover 'OpenID Connect' endpoints and authenticate
     using device flow. Used by 'MOLGENIS' packages.
-Version: 0.0.18
+Version: 0.0.21
 Authors@R: 
-    c(person(given = "Fleur",
+    c(
+      person(given = "Fleur",
              family = "Kelpin",
              role = c("aut"),
              email = "fleur@kelpin.nl",
@@ -16,17 +17,23 @@ Authors@R:
              comment = c(ORCID = "0000-0002-4492-7225")),
       person(given = "Sido",
              family = "Haakma",
-             role = c("aut", "cre"),
+             role = c("aut"),
              email = "s.haakma@rug.nl",
              comment = c(ORCID = "0000-0003-1278-9144")),
+      person(given = "Mariska",
+             family = "Slofstra",
+             role = c("aut", "cre"),
+             email = "m.k.slofstra@umcg.nl",
+             comment = c(ORCID = "0000-0002-0400-0468")),
       person(given = "MOLGENIS org",
              role = c("cph", "fnd"),
              email = "molgenis-support@umcg.nl"))
 Author: Fleur Kelpin [aut] (<https://orcid.org/0000-0003-1527-5130>),
   Tommy de Boer [aut] (<https://orcid.org/0000-0002-4492-7225>),
-  Sido Haakma [aut, cre] (<https://orcid.org/0000-0003-1278-9144>),
+  Sido Haakma [aut] (<https://orcid.org/0000-0003-1278-9144>),
+  Mariska Slofstra [aut, cre] (<https://orcid.org/0000-0002-0400-0468>),
   MOLGENIS org [cph, fnd]
-Maintainer: Sido Haakma <s.haakma@rug.nl>
+Maintainer: Mariska Slofstra <m.k.slofstra@umcg.nl>
 Imports: httr (>= 1.4.0), urltools (>= 1.7.0)
 URL: https://github.com/molgenis/molgenis-r-auth/,
         https://molgenis.github.io/molgenis-r-auth/
@@ -36,6 +43,6 @@ Encoding: UTF-8
 RoxygenNote: 7.1.1
 Suggests: testthat, mockery
 NeedsCompilation: no
-Packaged: 2021-10-11 19:43:27 UTC; root
+Packaged: 2022-03-25 07:05:57 UTC; root
 Repository: CRAN
-Date/Publication: 2021-10-12 09:00:07 UTC
+Date/Publication: 2022-03-25 14:00:15 UTC
