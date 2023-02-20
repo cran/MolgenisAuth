@@ -1,3 +1,11 @@
+# MolgenisAuth 0.0.25
+
+# MolgenisAuth 0.0.24
+
+# MolgenisAuth 0.0.23
+
+# MolgenisAuth 0.0.22
+
 # MolgenisAuth 0.0.21
 
 # MolgenisAuth 0.0.20
